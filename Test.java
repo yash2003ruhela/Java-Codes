@@ -1,4 +1,5 @@
-
+//A to Z (capital letters): ASCII values 65 to 90
+//a to z (small letters): ASCII values 97 to 122
 class Test
 {
 static private int secondSmallest(int[] arr, int n)
