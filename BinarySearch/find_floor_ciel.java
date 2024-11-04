@@ -1,6 +1,5 @@
-import java.util.*;
 
-public class Solution {
+ class Solution {
     @SuppressWarnings("unused")
     static int findFloor(int[] arr, int n, int x) {
         int low = 0, high = n - 1;
@@ -37,4 +36,5 @@ public class Solution {
             }
         }
         return ans;
-    }
+    }}
+    
