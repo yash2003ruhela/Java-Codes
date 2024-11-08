@@ -1,4 +1,4 @@
-class Solution {     
+class solution {     
     public int findMin(int[] nums) {
         int n = nums.length;
         int low = 0;
